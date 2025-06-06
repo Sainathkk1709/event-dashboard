@@ -69,9 +69,9 @@ const LoginForm: React.FC = () => {
 
   // Demo accounts for easy testing
   const demoAccounts = [
-    { type: 'User', email: 'john@example.com', password: 'password' },
-    { type: 'Organizer', email: 'jane@example.com', password: 'password' },
-    { type: 'Admin', email: 'admin@example.com', password: 'password' }
+    { type: 'User', email: 'keerthana01@example.com', password: 'keerthana01' },
+    { type: 'Organizer', email: 'rishwitha29@example.com', password: 'rishwitha29' },
+    { type: 'Admin', email: 'r.bhavyasri1720@example.com', password: 'sb@1720' }
   ];
 
   const fillDemoAccount = (email: string, password: string) => {
